@@ -1,0 +1,8 @@
+{
+    "canisters": {
+      "doneit": {
+        "main": "love.mo",
+        "type": "motoko"
+      }
+    }
+}
